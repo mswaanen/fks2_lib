@@ -1,3 +1,3 @@
 pub fn hello() {
-    println!("Hello from Amazon land!");
+    println!("Hello from Github land!");
 }
